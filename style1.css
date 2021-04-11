@@ -1,0 +1,17 @@
+body{
+    background-color: beige; width: auto; 
+}
+.wrapper{
+    width: max-content; height: max-content; background-color:rgba(0, 119, 255, 0.589) ; box-sizing: border-box; 
+    margin-left: 30%;  box-shadow: darkgrey; 
+}
+.wrapper h2{
+    color:rgb(200, 100,0); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif; margin: auto; margin-left: 40px;
+}
+form{
+    color: saddlebrown; font-size: large; margin-left: 20px; 
+}
+input{
+    width: 200px; height: 30px; box-shadow: blue;
+}
